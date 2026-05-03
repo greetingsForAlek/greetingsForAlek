@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @greetingsForAlek
 
-I make random useless projects!! 🔢🔢🔢🔢
-
-I use HTML🔨, CSS 🖌️, JavaScript 🔢, Python 🐍, TypeScript ⚒️ and I also use
-React ⚛️ for websites and sometimes Electron :atom:
+I do stuff
 
 <!---
 greetingsForAlek/greetingsForAlek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
