@@ -4,8 +4,8 @@ languages i like:
   - python
   - go
 
-do what you will with that info
-now scram
+do what you will with that info.
+now scram.
 unless you're looking at my repos, then you can stay :)
 
 <!---
